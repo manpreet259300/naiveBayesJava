@@ -1,0 +1,22 @@
+1)  FORTUNE 500 COMPANY HIRING, AT HOME REPS. ********** spam = 0.04828319%  ham = 3.3607435E-14%  classify = SPAM*************
+2)  Is Your Family Protected? ********** spam = 5.3354757E-8%  ham = 1.2296609E-8%  classify = SPAM*************
+3)  Important Information Concerning Your Bank Account  ********** spam = 5.283167E-8%  ham = 2.3971302E-12%  classify = SPAM*************
+4)  MULTIPLY YOUR CUSTOMER BASE! ********** spam = 5.040714E-4%  ham = 1.0975417E-8%  classify = SPAM*************
+5)  ^^^^^Cell Phone Belt Clips $1.95^^^^^^                           18070 ********** spam = 3.378573E-18%  ham = 8.694161E-25%  classify = SPAM*************
+6)  wives and girlfriends cheating and whoring around  ********** spam = 2.2293869E-5%  ham = 4.02116E-14%  classify = SPAM*************
+7)  Get the Child Support You Deserve                            11.180 ********** spam = 3.935814E-24%  ham = 8.648107E-27%  classify = SPAM*************
+8)  FREE Cell Phone + $50 Cash Back! ********** spam = 5.1101692E-6%  ham = 2.717174E-14%  classify = SPAM*************
+9)  MSNBC: Rates Hit 35 year Low 4.75% ...12304 ********** spam = 5.0600693E-6%  ham = 4.596841E-16%  classify = SPAM*************
+10)  Conference calls/best quality/$.18 per minute! ********** spam = 4.942836E-4%  ham = 1.3816179E-10%  classify = SPAM*************
+11)  Plans for cable ********** spam = 2.0156165E-7%  ham = 1.0506412E-6%  classify = HAM*************
+12)  HELP WANTED.  WORK FROM HOME REPS. ********** spam = 0.013771426%  ham = 7.566321E-13%  classify = SPAM*************
+13)  A CRY FOR HELP ********** spam = 6.998273E-4%  ham = 1.1201208E-8%  classify = SPAM*************
+14)  ADV: Lowest life insurance rates available!                                                   moode ********** spam = 2.8387326E-31%  ham = 6.79659E-38%  classify = SPAM*************
+15)  [ILUG] Get the Child Support You Deserve                     10.132 ********** spam = 5.559383E-22%  ham = 3.1659715E-25%  classify = SPAM*************
+16)  [ILUG] BUSINESS ********** spam = 0.001047294%  ham = 6.8423644E-5%  classify = SPAM*************
+17)  Relationship ********** spam = 0.04828319%  ham = 0.003785786%  classify = SPAM*************
+18)  Penile enlargement method - guaranteed ! ********** spam = 7.715354E-6%  ham = 2.6208519E-12%  classify = SPAM*************
+19)  Save 84% on CE Credits ********** spam = 1.1452493E-5%  ham = 1.566227E-10%  classify = SPAM*************
+20) "hdnSubjectTxt" value=3D"IQ Campus Inquiry"> ********** spam = 0.16928285%  ham = 3.123395E-8%  classify = SPAM*************
+21)  The DEBT-$AVER Program              SKYXTGM ********** spam = 9.402418E-13%  ham = 8.148268E-15%  classify = SPAM*************
+22)  A CRY FOR HELP ********** spam = 6.998273E-4%  ham = 1.1201208E-8%  classify = SPAM*************
